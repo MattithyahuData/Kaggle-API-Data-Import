@@ -7,4 +7,4 @@
 [**Anaconda Packages:**](requirements.txt)
 **kaggle,pandas**
 
-* You may be wondering where my .kaggle folder is containing my API token. It's in another directory.
+* You may be wondering where the .kaggle folder is containing my API token. It's in another directory.
