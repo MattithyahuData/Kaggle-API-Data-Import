@@ -1,4 +1,4 @@
-# Download data uding Kaggles API
+# Downloading data using the Kaggle API
 * One of the best ways to get data for Data Science
 
 ## Resources Used
@@ -7,5 +7,4 @@
 [**Anaconda Packages:**](requirements.txt)
 **kaggle,pandas**
 
-## Evaluation 
-Example of how to download data through the Kaggle API 
+* You may be wondering where my .kaggle folder is containing my API token. It's in another directory.
