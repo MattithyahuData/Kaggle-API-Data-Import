@@ -1,5 +1,5 @@
 # Downloading data using the Kaggle API
-* One of the best ways to get data for Data Science
+* One of the best ways to get data for data science projects. 
 
 ## Resources Used
 **Python 3.8.12** 
